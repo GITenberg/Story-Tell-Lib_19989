@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '4354'
     url: http://www.gutenberg.org/2009/agents/4354
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19989#Story-Tell-Lib
 gutenberg_issued: '2006-12-01'
 gutenberg_type: Text
 identifiers:
